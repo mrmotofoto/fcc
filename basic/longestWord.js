@@ -10,5 +10,4 @@ function findLongestWord(str) {
     }
     return "The longest word is: "+"\""+word+"\""+ " And its length is "+result;
 }
-
 findLongestWord("The quick brown fox jumped over the lazy dog");
